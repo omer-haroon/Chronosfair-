@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'chronosfair',
-        'USER': 'root',
-        'PASSWORD': 'REMOVED_PASSWORD',
+        'USER': 'xxx',
+        'PASSWORD': 'xxx',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
