@@ -1,0 +1,15 @@
+course_code,section_code,primary_teacher,lab_teacher,requires_lab
+T-CE101,TEST-CE-1A,Zainab Riaz,,False
+T-CE101L,TEST-CE-1A,Faisal Iqbal,Dr. Kamran Aziz,True
+T-CE102,TEST-CE-1A,Dr. Sara Ahmed,,False
+T-CE103,TEST-CE-1A,Dr. Bilal Hussain,,False
+T-CE101,TEST-CE-1B,Dr. Bilal Hussain,,False
+T-CE101L,TEST-CE-1B,Zainab Riaz,Dr. Sara Ahmed,True
+T-CE102,TEST-CE-1B,Hina Malik,,False
+T-CE103,TEST-CE-1B,Dr. Sara Ahmed,,False
+T-CE301,TEST-CE-3A,Dr. Bilal Hussain,,False
+T-CE301L,TEST-CE-3A,Dr. Kamran Aziz,Dr. Kamran Aziz,True
+T-CE302,TEST-CE-3A,Dr. Bilal Hussain,,False
+T-SE101,TEST-SE-1A,Hina Malik,,False
+T-SE101L,TEST-SE-1A,Dr. Bilal Hussain,Dr. Kamran Aziz,True
+T-SE102,TEST-SE-1A,Dr. Sara Ahmed,,False

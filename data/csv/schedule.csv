@@ -1,0 +1,177 @@
+section_code,slot_key,course_code,course_name,schedule_type,teacher,room_code
+BCE-F-23-A,Mo1,CE-7DSD,Digital System Design,class,Usman Hameed,B-001
+BCE-F-23-A,Mo2,CE-7ML,Machine Learning,class,Ayesha Sadiq,B-001
+BCE-F-23-A,Mo3,CE-7FYP,Final Year Project-II,class,Dr. Ayesha Salman,B-203
+BCE-F-23-A,Mo5,CE-7CIR,Contemporary International Relations,class,Awais Ali,B-006
+BCE-F-23-A,Tu3,CE-7CAD,Cloud and Distributed Computing Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-23-A,Tu4,CE-7CAD,Cloud and Distributed Computing Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-23-A,Tu5,CE-7CAD,Cloud and Distributed Computing,class,Dr. Fawad Salam Khan,B-001
+BCE-F-23-A,Tu6,CE-7ML,Machine Learning,class,Ayesha Sadiq,B-005
+BCE-F-23-A,We3,CE-7MLL,Machine Learning Laboratory,lab,Ayesha Sadiq,Computer Lab-21 (B Block Ground Floor)
+BCE-F-23-A,We4,CE-7MLL,Machine Learning Laboratory,lab,Ayesha Sadiq,Computer Lab-21 (B Block Ground Floor)
+BCE-F-23-A,We5,CE-7CIR,Contemporary International Relations,class,Awais Ali,B-006
+BCE-F-23-A,We6,CE-7DSD,Digital System Design,class,Usman Hameed,B-001
+BCE-F-23-A,Th1,CE-7DSD,Digital System Design Laboratory,lab,Usman Hameed,Signal & Image Processing Lab
+BCE-F-23-A,Th2,CE-7DSD,Digital System Design Laboratory,lab,Usman Hameed,Signal & Image Processing Lab
+BCE-F-23-A,Th4,ADVISORY,Advisory Class,class,Usman Hameed,B-004
+BCE-F-23-A,Th5,CE-7CAD,Cloud and Distributed Computing,class,Dr. Fawad Salam Khan,B-004
+BCE-F-23-B,Mo2,CE-7ML,Machine Learning,class,Maryam Sabir,B-004
+BCE-F-23-B,Mo3,CE-7DSD,Digital System Design,class,Usman Hameed,B-001
+BCE-F-23-B,Mo4,CE-7CIR,Contemporary International Relations,class,Awais Ali,B-006
+BCE-F-23-B,Mo5,CE-7CAD,Cloud and Distributed Computing Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-23-B,Mo6,CE-7CAD,Cloud and Distributed Computing Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-23-B,We3,CE-7FYP,Final Year Project-II,class,Dr. Ayesha Salman,B-005
+BCE-F-23-B,We4,CE-7CAD,Cloud and Distributed Computing,class,Muhammad Naveed Khurshed,B-203
+BCE-F-23-B,We5,CE-7DSD,Digital System Design,class,Usman Hameed,B-005
+BCE-F-23-B,We6,CE-7CIR,Contemporary International Relations,class,Awais Ali,B-004
+BCE-F-23-B,Th1,CE-7ML,Machine Learning,class,Maryam Sabir,B-004
+BCE-F-23-B,Th3,CE-7CAD,Cloud and Distributed Computing,class,Muhammad Naveed Khurshed,B-004
+BCE-F-23-B,Th6,ADVISORY,Advisory Class,class,Zo Afshan,B-203
+BCE-F-23-B,Fr1,CE-7DSD,Digital System Design Laboratory,lab,Usman Hameed,Computer Systems Design Lab
+BCE-F-23-B,Fr2,CE-7DSD,Digital System Design Laboratory,lab,Usman Hameed,Computer Systems Design Lab
+BCE-F-23-B,Fr5,CE-7MLL,Machine Learning Laboratory,lab,Maryam Sabir,Signal & Image Processing Lab
+BCE-F-23-B,Fr6,CE-7MLL,Machine Learning Laboratory,lab,Maryam Sabir,Signal & Image Processing Lab
+BCE-F-24-A,Mo2,CE-5PMI,Probability Methods in Engineering,class,Dr. Jehanzeb Khan,B-006
+BCE-F-24-A,Mo3,CE-5OSL,Operating Systems Laboratory,lab,Javeria Razzaq,Signal & Image Processing Lab
+BCE-F-24-A,Mo4,CE-5OSL,Operating Systems Laboratory,lab,Javeria Razzaq,Signal & Image Processing Lab
+BCE-F-24-A,Mo5,CE-5CCA,Computer Communication and Networks,class,Basharat,B-004
+BCE-F-24-A,Tu1,CE-5SSL,Signals & Systems Laboratory,lab,Maryam Sheikh,Computer Lab-9 (B Block Ground Floor)
+BCE-F-24-A,Tu2,CE-5SSL,Signals & Systems Laboratory,lab,Maryam Sheikh,Computer Lab-9 (B Block Ground Floor)
+BCE-F-24-A,Tu3,CE-5CCA,Computer Communication and Networks,class,Basharat,B-001
+BCE-F-24-A,Tu5,CE-5SE,Software Engineering,class,Muhammad Naveed Khurshed,B-203
+BCE-F-24-A,We2,CE-5SS,Signals & Systems,class,Dr. Ayesha Salman,B-004
+BCE-F-24-A,We3,CE-5OS,Operating Systems,class,Dr. Hadi Abdullah,B-001
+BCE-F-24-A,We4,CE-5PMI,Probability Methods in Engineering,class,Dr. Jehanzeb Khan,B-004
+BCE-F-24-A,We5,CE-5CCA,Computer Communication and Networks Laboratory,lab,Basharat,Telecom Networks Lab
+BCE-F-24-A,We6,CE-5CCA,Computer Communication and Networks Laboratory,lab,Basharat,Telecom Networks Lab
+BCE-F-24-A,Th2,CE-5SS,Signals & Systems,class,Dr. Ayesha Salman,B-005
+BCE-F-24-A,Th4,CE-5SE,Software Engineering,class,Muhammad Naveed Khurshed,B-005
+BCE-F-24-A,Th5,CE-5OS,Operating Systems,class,Dr. Hadi Abdullah,B-203
+BCE-F-24-A,Th6,ADVISORY,Advisory Class,class,Ayesha Sadiq,B-001
+BCE-F-24-B,Mo1,ADVISORY,Advisory Class,class,Maryam Sabir,B-006
+BCE-F-24-B,Mo2,CE-5SS,Signals & Systems,class,Dr. Ayesha Salman,B-005
+BCE-F-24-B,Mo3,CE-5SE,Software Engineering,class,Muhammad Atif Bajwa,B-006
+BCE-F-24-B,Mo5,CE-5CCA,Computer Communication and Networks Laboratory,lab,Aneeq Ahmad,Telecom Networks Lab
+BCE-F-24-B,Mo6,CE-5CCA,Computer Communication and Networks Laboratory,lab,Aneeq Ahmad,Telecom Networks Lab
+BCE-F-24-B,Tu1,CE-5SS,Signals & Systems,class,Dr. Ayesha Salman,B-203
+BCE-F-24-B,Tu4,CE-5PMI,Probability Methods in Engineering,class,Dr. Jehanzeb Khan,B-004
+BCE-F-24-B,Tu6,CE-5CCA,Computer Communication and Networks,class,Aneeq Ahmad,B-004
+BCE-F-24-B,We2,CE-5PMI,Probability Methods in Engineering,class,Dr. Jehanzeb Khan,B-001
+BCE-F-24-B,We4,CE-5OS,Operating Systems,class,Dr. Hadi Abdullah,B-005
+BCE-F-24-B,We5,CE-5OSL,Operating Systems Laboratory,lab,Javeria Razzaq,Signal & Image Processing Lab
+BCE-F-24-B,We6,CE-5OSL,Operating Systems Laboratory,lab,Javeria Razzaq,Signal & Image Processing Lab
+BCE-F-24-B,Th1,CE-5CCA,Computer Communication and Networks,class,Aneeq Ahmad,B-006
+BCE-F-24-B,Th3,CE-5OS,Operating Systems,class,Dr. Hadi Abdullah,B-006
+BCE-F-24-B,Th4,CE-5SE,Software Engineering,class,Muhammad Atif Bajwa,B-006
+BCE-F-24-B,Th5,CE-5SSL,Signals & Systems Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-24-B,Th6,CE-5SSL,Signals & Systems Laboratory,lab,Maryam Sheikh,Signal & Image Processing Lab
+BCE-F-25-A,Mo1,CE-3DLD,Digital Logic Design Laboratory,lab,Anwar Saeed,Communication Lab
+BCE-F-25-A,Mo2,CE-3DLD,Digital Logic Design Laboratory,lab,Anwar Saeed,Communication Lab
+BCE-F-25-A,Mo3,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-004
+BCE-F-25-A,Mo4,CE-3ISA,Islamic Studies and Ethics,class,Hussain Mujtaba,B-001
+BCE-F-25-A,Mo6,CE-3EDA,Electronic Devices and Circuits,class,Dr. Muhammad Zaheer,B-004
+BCE-F-25-A,Tu2,CE-3ISA,Islamic Studies and Ethics,class,Hussain Mujtaba,B-001
+BCE-F-25-A,Tu3,CE-3EDA,Electronic Devices and Circuits,class,Dr. Muhammad Zaheer,B-006
+BCE-F-25-A,Tu4,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-006
+BCE-F-25-A,Tu5,CE-3DSA,Data Structures and Algorithms Laboratory,lab,Zo Afshan,Computer Systems Design Lab
+BCE-F-25-A,Tu6,CE-3DSA,Data Structures and Algorithms Laboratory,lab,Zo Afshan,Computer Systems Design Lab
+BCE-F-25-A,We2,CE-3DSA,Data Structures and Algorithms,class,Zo Afshan,B-005
+BCE-F-25-A,We4,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-001
+BCE-F-25-A,We6,CE-3DLD,Digital Logic Design,class,Anwar Saeed,B-005
+BCE-F-25-A,Th2,ADVISORY,Advisory Class,class,Dr. Mumajjed Ul Mudassir,B-203
+BCE-F-25-A,Th3,CE-3EDA,Electronic Devices and Circuits Laboratory,lab,Laraib,Electronics System Lab
+BCE-F-25-A,Th4,CE-3EDA,Electronic Devices and Circuits Laboratory,lab,Laraib,Electronics System Lab
+BCE-F-25-A,Th5,CE-3DSA,Data Structures and Algorithms,class,Zo Afshan,B-001
+BCE-F-25-A,Th6,CE-3DLD,Digital Logic Design,class,Anwar Saeed,B-005
+BCE-F-25-B,Mo1,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-004
+BCE-F-25-B,Mo4,CE-3DSA,Data Structures and Algorithms,class,Ayesha Sadiq,B-005
+BCE-F-25-B,Mo6,CE-3ISA,Islamic Studies and Ethics,class,Hussain Mujtaba,B-001
+BCE-F-25-B,Tu1,CE-3ISA,Islamic Studies and Ethics,class,Hussain Mujtaba,B-004
+BCE-F-25-B,Tu2,CE-3DLD,Digital Logic Design,class,Zo Afshan,B-004
+BCE-F-25-B,Tu3,CE-3DSA,Data Structures and Algorithms Laboratory,lab,Ayesha Sadiq,Computer Lab-21 (B Block Ground Floor)
+BCE-F-25-B,Tu4,CE-3DSA,Data Structures and Algorithms Laboratory,lab,Ayesha Sadiq,Computer Lab-21 (B Block Ground Floor)
+BCE-F-25-B,Tu5,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-005
+BCE-F-25-B,Tu6,CE-3EDA,Electronic Devices and Circuits,class,Tauseef Ur Rehman,B-001
+BCE-F-25-B,We1,CE-3DSA,Data Structures and Algorithms,class,Ayesha Sadiq,B-005
+BCE-F-25-B,We3,CE-3DLD,Digital Logic Design Laboratory,lab,Zo Afshan,Digital Signal Processing Lab
+BCE-F-25-B,We4,CE-3DLD,Digital Logic Design Laboratory,lab,Zo Afshan,Digital Signal Processing Lab
+BCE-F-25-B,We6,CE-3LAA,Linear Algebra and Differential Equations,class,Nida Tanveer,B-202
+BCE-F-25-B,Fr1,CE-3EDA,Electronic Devices and Circuits Laboratory,lab,Tauseef Ur Rehman,Communication Lab
+BCE-F-25-B,Fr2,CE-3DLD,Digital Logic Design,class,Zo Afshan,B-006
+BCE-F-25-B,Fr3,ADVISORY,Advisory Class,class,Dr. Jehanzeb Khan,B-001
+BCE-F-25-B,Fr4,CE-3EDA,Electronic Devices and Circuits,class,Tauseef Ur Rehman,B-006
+BCE-F26-A,Mo1,CE-1CPL,Computer Programming Laboratory,lab,Zarkaish,Computer Systems Design Lab
+BCE-F26-A,Mo2,CE-1CPL,Computer Programming Laboratory,lab,Zarkaish,Computer Systems Design Lab
+BCE-F26-A,Mo4,ADVISORY,Advisory Class,class,Muhammad Atif Bajwa,B-004
+BCE-F26-A,Mo5,CE-1APL,Applied Physics Laboratory,lab,Aqib Rauf,Physics Lab 2
+BCE-F26-A,Mo6,CE-1APL,Applied Physics Laboratory,lab,Aqib Rauf,Physics Lab 2
+BCE-F26-A,Tu1,CE-1F,Fehm-e-Quran-I,class,Dr. Aftab Ahmad Rai,B-001
+BCE-F26-A,Tu2,CE-1CAG,Calculus & Analytical Geometry,class,Dr. Mahwish Bano,B-006
+BCE-F26-A,Tu4,CE-1IAC,Information and Communication Technologies (ICT),class,Basharat,B-001
+BCE-F26-A,Tu5,CE-1CP,Computer Programming,class,Dr. Mumajjed Ul Mudassir,B-006
+BCE-F26-A,Tu6,CE-1FE,Functional English,class,Khansa Riaz,B-006
+BCE-F26-A,We3,CE-1IAC,Information and Communication Technologies (ICT),class,Basharat,B-004
+BCE-F26-A,Th1,CE-1F,Fehm-e-Quran-I,class,Dr. Aftab Ahmad Rai,B-005
+BCE-F26-A,Th2,CE-1CAG,Calculus & Analytical Geometry,class,Dr. Mahwish Bano,B-004
+BCE-F26-A,Th3,CE-1IAC,Information and Communication Technologies (ICT) Laboratory,lab,Basharat,Signal & Image Processing Lab
+BCE-F26-A,Th4,CE-1IAC,Information and Communication Technologies (ICT) Laboratory,lab,Basharat,Signal & Image Processing Lab
+BCE-F26-A,Th5,CE-1CEW,Computer Engineering Workshop,lab,CE-VFM,Computer Systems Design Lab
+BCE-F26-A,Fr1,CE-1CP,Computer Programming,class,Dr. Mumajjed Ul Mudassir,B-001
+BCE-F26-A,Fr2,CE-1FE,Functional English,class,Khansa Riaz,B-004
+BCE-F26-A,Fr3,CE-1AP,Applied Physics,class,Syed Muneeb Abbas Hamdani,B-005
+BCE-F26-A,Fr4,CE-1AP,Applied Physics,class,Syed Muneeb Abbas Hamdani,B-005
+BCE-F-26-B,Mo1,CE-1APL,Applied Physics Laboratory,lab,Aqib Rauf,Physics Lab 2
+BCE-F-26-B,Mo2,CE-1APL,Applied Physics Laboratory,lab,Aqib Rauf,Physics Lab 2
+BCE-F-26-B,Mo3,CE-1CP,Computer Programming,class,Maryam Sabir,B-005
+BCE-F-26-B,Mo5,CE-1CAG,Calculus & Analytical Geometry,class,Nida Tanveer,B-005
+BCE-F-26-B,Tu1,CE-1AP,Applied Physics,class,Syed Muneeb Abbas Hamdani,B-005
+BCE-F-26-B,Tu2,CE-1IAC,Information and Communication Technologies (ICT),class,Aneeq Ahmad,B-005
+BCE-F-26-B,Tu5,CE-1FE,Functional English,class,Khansa Riaz,B-004
+BCE-F-26-B,Tu6,CE-1F,Fehm-e-Quran-I,class,Dr. Aftab Ahmad Rai,B-106
+BCE-F-26-B,We1,CE-1IAC,Information and Communication Technologies (ICT),class,Aneeq Ahmad,B-004
+BCE-F-26-B,We2,CE-1CAG,Calculus & Analytical Geometry,class,Nida Tanveer,B-006
+BCE-F-26-B,We3,CE-1CEW,Computer Engineering Workshop,lab,CE-VFM4,Signal & Image Processing Lab
+BCE-F-26-B,We4,CE-1CEW,Computer Engineering Workshop,lab,CE-VFM4,Signal & Image Processing Lab
+BCE-F-26-B,We5,CE-1FE,Functional English,class,Khansa Riaz,B-001
+BCE-F-26-B,Th1,ADVISORY,Advisory Class,class,Basharat,B-203
+BCE-F-26-B,Th2,CE-1CP,Computer Programming,class,Maryam Sabir,B-001
+BCE-F-26-B,Th3,CE-1IAC,Information and Communication Technologies (ICT) Laboratory,lab,Aneeq Ahmad,Computer Systems Design Lab
+BCE-F-26-B,Th4,CE-1AP,Applied Physics,class,Syed Muneeb Abbas Hamdani,B-005
+BCE-F-26-B,Fr1,CE-1F,Fehm-e-Quran-I,class,Dr. Aftab Ahmad Rai,B-006
+BCE-F-26-B,Fr3,CE-1CPL,Computer Programming Laboratory,lab,Maryam Sabir,Computer Lab-9 (B Block Ground Floor)
+BCE-F-26-B,Fr4,CE-1CPL,Computer Programming Laboratory,lab,Maryam Sabir,Computer Lab-9 (B Block Ground Floor)
+BSE-F-26-A,Mo1,SE-1IAC,Information and Communication Technologies (ICT) Laboratory,lab,Alina Maryum,Signal & Image Processing Lab
+BSE-F-26-A,Mo2,SE-1IAC,Information and Communication Technologies (ICT) Laboratory,lab,Alina Maryum,Signal & Image Processing Lab
+BSE-F-26-A,Mo3,SE-1APL,Applied Physics Laboratory,lab,Sher Bano,Physics Lab 2
+BSE-F-26-A,Mo4,SE-1APL,Applied Physics Laboratory,lab,Sher Bano,Physics Lab 2
+BSE-F-26-A,Mo5,SE-1AP,Applied Physics,class,Sher Bano,B-001
+BSE-F-26-A,Tu1,SE-1CPL,Computer Programming Laboratory,lab,Sidrish Ehsan,Computer Systems Design Lab
+BSE-F-26-A,Tu2,SE-1CPL,Computer Programming Laboratory,lab,Sidrish Ehsan,Computer Systems Design Lab
+BSE-F-26-A,Tu3,SE-1AP,Applied Physics,class,Sher Bano,B-005
+BSE-F-26-A,Tu4,SE-1CP,Computer Programming,class,Dr. Mumajjed Ul Mudassir,B-005
+BSE-F-26-A,We4,SE-1CAG,Calculus & Analytical Geometry,class,Dr. Shanza Behram,B-006
+BSE-F-26-A,We5,SE-1PS,Pakistan Studies,class,Raham Maula,B-004
+BSE-F-26-A,We6,SE-1FE,Functional English,class,Amina Khan,B-006
+BSE-F-26-A,Th2,SE-1IAC,Information and Communication Technologies (ICT),class,Alina Maryum,B-006
+BSE-F-26-A,Th3,SE-1CAG,Calculus & Analytical Geometry,class,Dr. Shanza Behram,B-005
+BSE-F-26-A,Th4,SE-1FE,Functional English,class,Amina Khan,B-203
+BSE-F-26-A,Th6,ADVISORY,Advisory Class,class,Sidrish Ehsan,B-004
+BSE-F-26-A,Fr2,SE-1PS,Pakistan Studies,class,Raham Maula,B-005
+BSE-F-26-A,Fr3,SE-1CP,Computer Programming,class,Dr. Mumajjed Ul Mudassir,B-001
+BSE-F-26-A,Fr4,SE-1IAC,Information and Communication Technologies (ICT),class,Alina Maryum,B-004
+BSE-F-25-A,Tu1,SE-3DLD,Digital Logic Design Laboratory,lab,Alina Maryum,Control & Instrumentation Lab
+BSE-F-25-A,Tu2,SE-3DLD,Digital Logic Design Laboratory,lab,Alina Maryum,Control & Instrumentation Lab
+BSE-F-25-A,Tu3,SE-3DMS,Database Management Systems,class,Muhammad Naveed Khurshed,B-004
+BSE-F-25-A,Tu5,SE-3DSA,Data Structures and Algorithms Laboratory,lab,Sidrish Ehsan,Computer Lab-21 (B Block Ground Floor)
+BSE-F-25-A,Tu6,SE-3DSA,Data Structures and Algorithms Laboratory,lab,Sidrish Ehsan,Computer Lab-21 (B Block Ground Floor)
+BSE-F-25-A,We1,SE-3SE,Software Engineering,class,Muhammad Atif Bajwa,B-006
+BSE-F-25-A,We3,SE-3PMI,Probability Methods in Engineering,class,Dr. Muhammad Zaheer,B-006
+BSE-F-25-A,We6,SE-3DSA,Data Structures and Algorithms,class,Sidrish Ehsan,B-203
+BSE-F-25-A,Th1,SE-3DLD,Digital Logic Design,class,Alina Maryum,B-001
+BSE-F-25-A,Th3,SE-3SE,Software Engineering,class,Muhammad Atif Bajwa,B-001
+BSE-F-25-A,Th4,SE-3DSA,Data Structures and Algorithms,class,Sidrish Ehsan,B-001
+BSE-F-25-A,Th5,SE-3PMI,Probability Methods in Engineering,class,Dr. Muhammad Zaheer,B-006
+BSE-F-25-A,Th6,SE-3DMS,Database Management Systems,class,Muhammad Naveed Khurshed,B-006
+BSE-F-25-A,Fr1,SE-3DMS,Database Management Systems Laboratory,lab,Muhammad Naveed Khurshed,Computer Lab-9 (B Block Ground Floor)
+BSE-F-25-A,Fr2,SE-3DLD,Digital Logic Design,class,Alina Maryum,B-004
+BSE-F-25-A,Fr3,ADVISORY,Advisory Class,class,Muhammad Naveed Khurshed,B-006

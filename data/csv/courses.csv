@@ -1,0 +1,52 @@
+code,name,program_code,semester_number,credit_hours,course_type,weekly_hours
+CE-1AP,Applied Physics,BSCE,1,3,theory,3
+SE-1AP,Applied Physics,BSSE,1,3,theory,3
+CE-1APL,Applied Physics Laboratory,BSCE,1,3,theory_lab,4
+SE-1APL,Applied Physics Laboratory,BSSE,1,3,theory_lab,4
+CE-1CAG,Calculus & Analytical Geometry,BSCE,1,3,theory,3
+SE-1CAG,Calculus & Analytical Geometry,BSSE,1,3,theory,3
+CE-7CAD,Cloud and Distributed Computing,BSCE,7,3,theory,3
+CE-7CAD,Cloud and Distributed Computing Laboratory,BSCE,7,3,theory_lab,4
+CE-5CCA,Computer Communication and Networks,BSCE,5,3,theory,3
+CE-5CCA,Computer Communication and Networks Laboratory,BSCE,5,3,theory_lab,4
+CE-1CEW,Computer Engineering Workshop,BSCE,1,3,theory_lab,4
+CE-1CP,Computer Programming,BSCE,1,3,theory,3
+SE-1CP,Computer Programming,BSSE,1,3,theory,3
+CE-1CPL,Computer Programming Laboratory,BSCE,1,3,theory_lab,4
+SE-1CPL,Computer Programming Laboratory,BSSE,1,3,theory_lab,4
+CE-7CIR,Contemporary International Relations,BSCE,7,3,theory,3
+CE-3DSA,Data Structures and Algorithms,BSCE,3,3,theory,3
+SE-3DSA,Data Structures and Algorithms,BSSE,3,3,theory,3
+CE-3DSA,Data Structures and Algorithms Laboratory,BSCE,3,3,theory_lab,4
+SE-3DSA,Data Structures and Algorithms Laboratory,BSSE,3,3,theory_lab,4
+SE-3DMS,Database Management Systems,BSSE,3,3,theory,3
+SE-3DMS,Database Management Systems Laboratory,BSSE,3,3,theory_lab,4
+CE-3DLD,Digital Logic Design,BSCE,3,3,theory,3
+SE-3DLD,Digital Logic Design,BSSE,3,3,theory,3
+CE-3DLD,Digital Logic Design Laboratory,BSCE,3,3,theory_lab,4
+SE-3DLD,Digital Logic Design Laboratory,BSSE,3,3,theory_lab,4
+CE-7DSD,Digital System Design,BSCE,7,3,theory,3
+CE-7DSD,Digital System Design Laboratory,BSCE,7,3,theory_lab,4
+CE-3EDA,Electronic Devices and Circuits,BSCE,3,3,theory,3
+CE-3EDA,Electronic Devices and Circuits Laboratory,BSCE,3,3,theory_lab,4
+CE-1F,Fehm-e-Quran-I,BSCE,1,3,theory,3
+CE-7FYP,Final Year Project-II,BSCE,7,3,theory,3
+CE-1FE,Functional English,BSCE,1,3,theory,3
+SE-1FE,Functional English,BSSE,1,3,theory,3
+CE-1IAC,Information and Communication Technologies (ICT),BSCE,1,3,theory,3
+SE-1IAC,Information and Communication Technologies (ICT),BSSE,1,3,theory,3
+CE-1IAC,Information and Communication Technologies (ICT) Laboratory,BSCE,1,3,theory_lab,4
+SE-1IAC,Information and Communication Technologies (ICT) Laboratory,BSSE,1,3,theory_lab,4
+CE-3ISA,Islamic Studies and Ethics,BSCE,3,3,theory,3
+CE-3LAA,Linear Algebra and Differential Equations,BSCE,3,3,theory,3
+CE-7ML,Machine Learning,BSCE,7,3,theory,3
+CE-7MLL,Machine Learning Laboratory,BSCE,7,3,theory_lab,4
+CE-5OS,Operating Systems,BSCE,5,3,theory,3
+CE-5OSL,Operating Systems Laboratory,BSCE,5,3,theory_lab,4
+SE-1PS,Pakistan Studies,BSSE,1,3,theory,3
+CE-5PMI,Probability Methods in Engineering,BSCE,5,3,theory,3
+SE-3PMI,Probability Methods in Engineering,BSSE,3,3,theory,3
+CE-5SS,Signals & Systems,BSCE,5,3,theory,3
+CE-5SSL,Signals & Systems Laboratory,BSCE,5,3,theory_lab,4
+CE-5SE,Software Engineering,BSCE,5,3,theory,3
+SE-3SE,Software Engineering,BSSE,3,3,theory,3

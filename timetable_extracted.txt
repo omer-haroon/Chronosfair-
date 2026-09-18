@@ -1,0 +1,339 @@
+===== PAGE 1 =====
+BCE-F-23-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr Usman Hameed CE-Engr.AYESHA SADIQ CE- Engr. Dr. AYESHA VFM-Awais Ali
+SALMAN
+Contemporaray
+Mo Digital System Final Year Project
+Machine Learning International
+Design -II
+Relations
+B-001 B-001 B-203 B-006
+CE- Engr. Maryam Sheikh CE-Engr. Dr. Fawad Salam CE-Engr.AYESHA SADIQ
+Khan
+Cloud and
+Tu Cloud and Distributed Computing
+Distributed Machine Learning
+Laboratory
+Computing
+Signal & Image Processing Lab B-001 B-005
+CE-Engr.AYESHA SADIQ VFM-Awais Ali CE-Engr Usman Hameed
+Contemporaray
+We Digital System
+Machine Learning Laboratory International
+Design
+Relations
+Computer Lab-21 (B Block Ground Floor) B-006 B-001
+CE-Engr Usman Hameed CE-Engr Usman Hameed CE-Engr. Dr. Fawad Salam
+Khan
+Cloud and
+Th
+Digital System Design Laboratory Advisory Class Distributed
+Computing
+Signal & Image Processing Lab B-004 B-004
+Fr
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 2 =====
+BCE-F-23-B
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr. Maryam Sabir CE-Engr Usman Hameed VFM-Awais Ali CE- Engr. Maryam Sheikh
+Contemporaray
+Mo Digital System Cloud and Distributed Computing
+Machine Learning International
+Design Laboratory
+Relations
+B-004 B-001 B-006 Signal & Image Processing Lab
+Tu
+CE- Engr. Dr. AYESHA CE-Engr. MUHAMMAD CE-Engr Usman Hameed VFM-Awais Ali
+SALMAN NAVEED KHURSHED
+Cloud and Contemporaray
+We Final Year Project Digital System
+Distributed International
+-II Design
+Computing Relations
+B-005 B-203 B-005 B-004
+CE-Engr. Maryam Sabir CE-Engr. MUHAMMAD CE-Engr. ZO AFSHAN
+NAVEED KHURSHED
+Cloud and
+Th
+Machine Learning Distributed Advisory Class
+Computing
+B-004 B-004 B-203
+CE-Engr Usman Hameed CE-Engr. Maryam Sabir
+Fr
+Digital System Design Laboratory Machine Learning Laboratory
+Computer Systems Design Lab Signal & Image Processing Lab
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 3 =====
+BCE-F-24-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr Dr. JEHANZEB KHAN CE-Engr. Javeria Razzaq CE-Engr. Basharat
+Computer
+Mo Probability methods
+Operating Systems Laboratory Communication and
+in Engineering
+Networks
+B-006 Signal & Image Processing Lab B-004
+CE- Engr. Maryam Sheikh CE-Engr. Basharat CE-Engr. MUHAMMAD
+NAVEED KHURSHED
+Computer
+Tu Software
+Signals & Systems Laboratory Communication and
+Engineering
+Networks
+Computer Lab-9 (B Block Ground Floor) B-001 B-203
+CE- Engr. Dr. AYESHA CE-Dr. Hadi Abdullah CE-Engr Dr. JEHANZEB KHAN CE-Engr. Basharat
+SALMAN
+We
+Probability methods in Computer Communication and Networks
+Signals & Systems Operating Systems
+Engineering Laboratory
+B-004 B-001 B-004 Telecom Networks Lab
+CE- Engr. Dr. AYESHA CE-Engr. MUHAMMAD CE-Dr. Hadi Abdullah CE-Engr.AYESHA SADIQ
+SALMAN NAVEED KHURSHED
+Th Software
+Signals & Systems Operating Systems Advisory Class
+Engineering
+B-005 B-005 B-203 B-001
+Fr
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 4 =====
+BCE-F-24-B
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr. Maryam Sabir CE- Engr. Dr. AYESHA CE-Engr.MUHAMMAD ATIF CE-Engr.ANEEQ AHMAD
+SALMAN BAJWA
+Mo Software Computer Communication and Networks
+Advisory Class Signals & Systems
+Engineering Laboratory
+B-006 B-005 B-006 Telecom Networks Lab
+CE- Engr. Dr. AYESHA CE-Engr Dr. JEHANZEB KHAN CE-Engr.ANEEQ AHMAD
+SALMAN
+Computer
+Tu Probability methods
+Signals & Systems Communication and
+in Engineering
+Networks
+B-203 B-004 B-004
+CE-Engr Dr. JEHANZEB KHAN CE-Dr. Hadi Abdullah CE-Engr. Javeria Razzaq
+We Probability methods
+Operating Systems Operating Systems Laboratory
+in Engineering
+B-001 B-005 Signal & Image Processing Lab
+CE-Engr.ANEEQ AHMAD CE-Dr. Hadi Abdullah CE-Engr.MUHAMMAD ATIF CE- Engr. Maryam Sheikh
+BAJWA
+Computer
+Th Software
+Communication and Operating Systems Signals & Systems Laboratory
+Engineering
+Networks
+B-006 B-006 B-006 Signal & Image Processing Lab
+Fr
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 5 =====
+BCE-F-25-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+A/C Anwar Saeed VFM- Nida Tanveer VFM-Hussain Mujtaba EE-Dr. Muhammad Zaheer
+Linear Algebra and
+Mo Islamic studies and Electronic Devices
+Digital Logic Design Laboratory Differential
+Ethics and Circuits
+Equations
+Communication Lab B-004 B-001 B-004
+VFM-Hussain Mujtaba EE-Dr. Muhammad Zaheer VFM- Nida Tanveer CE-Engr. ZO AFSHAN
+Linear Algebra and
+Tu Islamic studies and Electronic Devices Data Structures and Algorithms
+Differential
+Ethics and Circuits Laboratory
+Equations
+B-001 B-006 B-006 Computer Systems Design Lab
+CE-Engr. ZO AFSHAN VFM- Nida Tanveer A/C Anwar Saeed
+Linear Algebra and
+We
+Data Structures and
+Differential Digital Logic Design
+Algorithms
+Equations
+B-005 B-001 B-005
+CE-Engr Dr. MUMAJJED UL EE- Engr. Laraib CE-Engr. ZO AFSHAN A/C Anwar Saeed
+MUDASSIR
+Th Electronic Devices and Circuits Data Structures and
+Advisory Class Digital Logic Design
+Laboratory Algorithms
+B-203 Electronics System Lab B-001 B-005
+Fr
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 6 =====
+BCE-F-25-B
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+VFM- Nida Tanveer CE-Engr.AYESHA SADIQ VFM-Hussain Mujtaba
+Linear Algebra and
+Mo Data Structures and Islamic studies and
+Differential
+Algorithms Ethics
+Equations
+B-004 B-005 B-001
+VFM-Hussain Mujtaba CE-Engr. ZO AFSHAN CE-Engr.AYESHA SADIQ VFM- Nida Tanveer EE- Tauseef Ur Rehman
+Linear Algebra and
+Tu Islamic studies and Data Structures and Algorithms Electronic Devices
+Digital Logic Design Differential
+Ethics Laboratory and Circuits
+Equations
+B-004 B-004 Computer Lab-21 (B Block Ground Floor) B-005 B-001
+CE-Engr.AYESHA SADIQ CE-Engr. ZO AFSHAN VFM- Nida Tanveer
+Linear Algebra and
+We Data Structures and
+Digital Logic Design Laboratory Differential
+Algorithms
+Equations
+B-005 Digital Signal Processing Lab B-202
+Th
+EE- Tauseef Ur Rehman CE-Engr. ZO AFSHAN CE-Engr Dr. JEHANZEB KHAN EE- Tauseef Ur Rehman
+Fr Electronic Devices and Circuits Electronic Devices
+Digital Logic Design Advisory Class
+Laboratory and Circuits
+Communication Lab B-006 B-001 B-006
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 7 =====
+BCE-F26-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr. Zarkaish CE-Engr.MUHAMMAD ATIF VFM-Mr. Aqib Rauf
+BAJWA
+Mo
+Computer Programming Laboratory Advisory Class Applied Physics Laboratory
+Computer Systems Design Lab B-004 Physics Lab 2
+Dr.Aftab Ahmad Rai Math-Dr. Mahwish Bano CE-Engr. Basharat CE-Engr Dr. MUMAJJED UL VFM- Khansa Riaz
+MUDASSIR
+Information and
+Tu Calculus & Computer
+Fehm e Quran-I Communication Functional English
+Analytical Geometry Programming
+Technologies (ICT)
+B-001 B-006 B-001 B-006 B-006
+CE-Engr. Basharat
+Information and
+We
+Communication
+Technologies (ICT)
+B-004
+Dr.Aftab Ahmad Rai Math-Dr. Mahwish Bano CE-Engr. Basharat CE-VFM
+Th Calculus & Information and Communication
+Fehm e Quran-I Computer Engineering Workshop
+Analytical Geometry Technologies (ICT) Laboratory
+B-005 B-004 Signal & Image Processing Lab Computer Systems Design Lab
+CE-Engr Dr. MUMAJJED UL VFM- Khansa Riaz Phy- Syed Muneeb Abbas Phy- Syed Muneeb Abbas
+MUDASSIR Hamdani Hamdani
+Fr Computer
+Functional English Applied Physics Applied Physics
+Programming
+B-001 B-004 B-005 B-005
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 8 =====
+BCE-F-26-B
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+VFM-Mr. Aqib Rauf CE-Engr. Maryam Sabir VFM- Nida Tanveer
+Mo Computer Calculus &
+Applied Physics Laboratory
+Programming Analytical Geometry
+Physics Lab 2 B-005 B-005
+Phy- Syed Muneeb Abbas CE-Engr.ANEEQ AHMAD VFM- Khansa Riaz Dr.Aftab Ahmad Rai
+Hamdani
+Information and
+Tu
+Applied Physics Communication Functional English Fehm e Quran-I
+Technologies (ICT)
+B-005 B-005 B-004 B-106
+CE-Engr.ANEEQ AHMAD VFM- Nida Tanveer CE-VFM4 VFM- Khansa Riaz
+Information and
+We Calculus &
+Communication Computer Engineering Workshop Functional English
+Analytical Geometry
+Technologies (ICT)
+B-004 B-006 Signal & Image Processing Lab B-001
+CE-Engr. Basharat CE-Engr. Maryam Sabir CE-Engr.ANEEQ AHMAD Phy- Syed Muneeb Abbas
+Hamdani
+Th Computer Information and Communication
+Advisory Class Applied Physics
+Programming Technologies (ICT) Laboratory
+B-203 B-001 Computer Systems Design Lab B-005
+Dr.Aftab Ahmad Rai CE-Engr. Maryam Sabir
+Fr
+Fehm e Quran-I Computer Programming Laboratory
+B-006 Computer Lab-9 (B Block Ground Floor)
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 9 =====
+BSE-F-26-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+CE-Engr.ALINA MARYUM VFM-Sher Bano VFM-Sher Bano
+Mo Information and Communication
+Applied Physics Lab Applied Physics
+Technologies (ICT) Laboratory
+Signal & Image Processing Lab Physics Lab 2 B-001
+CE-Engr. Sidrish Ehsan VFM-Sher Bano CE-Engr Dr. MUMAJJED UL
+MUDASSIR
+Tu Computer
+Computer Programming Laboratory Applied Physics
+Programming
+Computer Systems Design Lab B-005 B-005
+VFM-Dr. Shanza Behram VFM-Raham Maula VFM- Amina Khan
+We Calculus &
+Pakistan Studies Functional English
+Analytical Geometry
+B-006 B-004 B-006
+CE-Engr.ALINA MARYUM VFM-Dr. Shanza Behram VFM- Amina Khan CE-Engr. Sidrish Ehsan
+Information and
+Th Calculus &
+Communication Functional English Advisory Class
+Analytical Geometry
+Technologies (ICT)
+B-006 B-005 B-203 B-004
+VFM-Raham Maula CE-Engr Dr. MUMAJJED UL CE-Engr.ALINA MARYUM
+MUDASSIR
+Information and
+Fr Computer
+Pakistan Studies Communication
+Programming
+Technologies (ICT)
+B-005 B-001 B-004
+Timetable generated:9/9/2026 aSc Timetables
+===== PAGE 10 =====
+BSE-F-25-A
+air university
+08:00-09:20 09:20-10:40 10:40-12:00 12:00-13:20 13:20-14:40 14:40-16:00
+Mo
+CE-Engr.ALINA MARYUM CE-Engr. MUHAMMAD CE-Engr. Sidrish Ehsan
+NAVEED KHURSHED
+Database
+Tu Data Structures and Algorithms
+Digital Logic Design Laboratory Management
+Laboratory
+Systems
+Control & Instrumentation Lab B-004 Computer Lab-21 (B Block Ground Floor)
+CE-Engr.MUHAMMAD ATIF EE-Dr. Muhammad Zaheer CE-Engr. Sidrish Ehsan
+BAJWA
+We Software Probability methods in Data Structures and
+Engineering Engineering Algorithms
+B-006 B-006 B-203
+CE-Engr.ALINA MARYUM CE-Engr.MUHAMMAD ATIF CE-Engr. Sidrish Ehsan EE-Dr. Muhammad Zaheer CE-Engr. MUHAMMAD
+BAJWA NAVEED KHURSHED
+Database
+Th Software Data Structures and Probability methods in
+Digital Logic Design Management
+Engineering Algorithms Engineering
+Systems
+B-001 B-001 B-001 B-006 B-006
+CE-Engr. MUHAMMAD NAVEED KHURSHED CE-Engr.ALINA MARYUM CE-Engr. MUHAMMAD
+NAVEED KHURSHED
+Fr Database Management Systems
+Digital Logic Design Advisory Class
+Laboratory
+Computer Lab-9 (B Block Ground Floor) B-004 B-006
+Timetable generated:9/9/2026 aSc Timetables

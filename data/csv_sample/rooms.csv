@@ -1,0 +1,7 @@
+code,name,room_type,capacity,building_code
+R-101,R-101,lecture_room,60,TEST-BLK
+R-102,R-102,lecture_room,60,TEST-BLK
+R-103,R-103,lecture_room,45,TEST-BLK
+R-104,R-104,lecture_room,45,TEST-BLK
+LAB-1,LAB-1,computer_lab,45,TEST-BLK
+LAB-2,LAB-2,computer_lab,45,TEST-BLK

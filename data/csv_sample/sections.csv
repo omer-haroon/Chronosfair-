@@ -1,0 +1,5 @@
+section_code,program_code,batch_year,section_name,semester_number,size
+TEST-CE-1A,BSCE,2026,A,1,40
+TEST-CE-1B,BSCE,2026,B,1,40
+TEST-CE-3A,BSCE,2025,A,3,38
+TEST-SE-1A,BSSE,2026,A,1,35

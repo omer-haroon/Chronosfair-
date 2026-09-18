@@ -1,0 +1,18 @@
+code,name,room_type,capacity,building_code
+B-001,B-001,lecture_room,60,BLK-B
+B-004,B-004,lecture_room,60,BLK-B
+B-005,B-005,lecture_room,60,BLK-B
+B-006,B-006,lecture_room,60,BLK-B
+B-106,B-106,lecture_room,60,BLK-B
+B-202,B-202,lecture_room,60,BLK-B
+B-203,B-203,lecture_room,60,BLK-B
+Communication Lab,Communication Lab,computer_lab,45,BLK-B
+Computer Lab-21 (B Block Ground Floor),Computer Lab-21 (B Block Ground Floor),computer_lab,45,BLK-B
+Computer Lab-9 (B Block Ground Floor),Computer Lab-9 (B Block Ground Floor),computer_lab,45,BLK-B
+Computer Systems Design Lab,Computer Systems Design Lab,computer_lab,45,BLK-B
+Control & Instrumentation Lab,Control & Instrumentation Lab,computer_lab,45,BLK-B
+Digital Signal Processing Lab,Digital Signal Processing Lab,computer_lab,45,BLK-B
+Electronics System Lab,Electronics System Lab,computer_lab,45,BLK-B
+Physics Lab 2,Physics Lab 2,computer_lab,45,BLK-B
+Signal & Image Processing Lab,Signal & Image Processing Lab,computer_lab,45,BLK-B
+Telecom Networks Lab,Telecom Networks Lab,computer_lab,45,BLK-B

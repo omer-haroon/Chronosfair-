@@ -1,0 +1,11 @@
+code,name,program_code,semester_number,credit_hours,course_type,weekly_hours
+T-CE101,Intro to Programming,BSCE,1,3,theory,3
+T-CE101L,Intro to Programming Lab,BSCE,1,1,theory_lab,3
+T-CE102,Calculus I,BSCE,1,3,theory,3
+T-CE103,Applied Physics,BSCE,1,3,theory,3
+T-CE301,Data Structures,BSCE,3,3,theory,3
+T-CE301L,Data Structures Lab,BSCE,3,1,theory_lab,3
+T-CE302,Digital Logic Design,BSCE,3,3,theory,3
+T-SE101,Intro to Programming,BSSE,1,3,theory,3
+T-SE101L,Intro to Programming Lab,BSSE,1,1,theory_lab,3
+T-SE102,Discrete Structures,BSSE,1,3,theory,3

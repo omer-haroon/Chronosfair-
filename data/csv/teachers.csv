@@ -1,0 +1,37 @@
+employee_id,name,email,department_code,designation,max_teaching_hours,max_lab_hours
+AU-T001,Alina Maryum,alina.maryum@au.edu.pk,CE,assistant_professor,18,6
+AU-T002,Amina Khan,amina.khan@au.edu.pk,CE,visiting_faculty,18,6
+AU-T003,Aneeq Ahmad,aneeq.ahmad@au.edu.pk,CE,assistant_professor,18,6
+AU-T004,Anwar Saeed,anwar.saeed@au.edu.pk,CE,assistant_professor,18,6
+AU-T005,Aqib Rauf,aqib.rauf@au.edu.pk,CE,visiting_faculty,18,6
+AU-T006,Awais Ali,awais.ali@au.edu.pk,CE,visiting_faculty,18,6
+AU-T007,Ayesha Sadiq,ayesha.sadiq@au.edu.pk,CE,assistant_professor,18,6
+AU-T008,Basharat,basharat@au.edu.pk,CE,assistant_professor,18,6
+AU-T009,CE-VFM,cevfm@au.edu.pk,CE,assistant_professor,18,6
+AU-T010,CE-VFM4,cevfm4@au.edu.pk,CE,assistant_professor,18,6
+AU-T011,Dr. Aftab Ahmad Rai,dr..aftab.ahmad.rai@au.edu.pk,CE,professor,18,6
+AU-T012,Dr. Ayesha Salman,dr..ayesha.salman@au.edu.pk,CE,professor,18,6
+AU-T013,Dr. Fawad Salam Khan,dr..fawad.salam.khan@au.edu.pk,CE,professor,18,6
+AU-T014,Dr. Hadi Abdullah,dr..hadi.abdullah@au.edu.pk,CE,professor,18,6
+AU-T015,Dr. Jehanzeb Khan,dr..jehanzeb.khan@au.edu.pk,CE,professor,18,6
+AU-T016,Dr. Mahwish Bano,dr..mahwish.bano@au.edu.pk,CE,professor,18,6
+AU-T017,Dr. Muhammad Zaheer,dr..muhammad.zaheer@au.edu.pk,EE,professor,18,6
+AU-T018,Dr. Mumajjed Ul Mudassir,dr..mumajjed.ul.mudassir@au.edu.pk,CE,professor,18,6
+AU-T019,Dr. Shanza Behram,dr..shanza.behram@au.edu.pk,CE,professor,18,6
+AU-T020,Hussain Mujtaba,hussain.mujtaba@au.edu.pk,CE,visiting_faculty,18,6
+AU-T021,Javeria Razzaq,javeria.razzaq@au.edu.pk,CE,assistant_professor,18,6
+AU-T022,Khansa Riaz,khansa.riaz@au.edu.pk,CE,visiting_faculty,18,6
+AU-T023,Laraib,laraib@au.edu.pk,EE,assistant_professor,18,6
+AU-T024,Maryam Sabir,maryam.sabir@au.edu.pk,CE,assistant_professor,18,6
+AU-T025,Maryam Sheikh,maryam.sheikh@au.edu.pk,CE,assistant_professor,18,6
+AU-T026,Muhammad Atif Bajwa,muhammad.atif.bajwa@au.edu.pk,CE,assistant_professor,18,6
+AU-T027,Muhammad Naveed Khurshed,muhammad.naveed.khurshed@au.edu.pk,CE,assistant_professor,18,6
+AU-T028,Nida Tanveer,nida.tanveer@au.edu.pk,CE,visiting_faculty,18,6
+AU-T029,Raham Maula,raham.maula@au.edu.pk,CE,visiting_faculty,18,6
+AU-T030,Sher Bano,sher.bano@au.edu.pk,CE,visiting_faculty,18,6
+AU-T031,Sidrish Ehsan,sidrish.ehsan@au.edu.pk,CE,assistant_professor,18,6
+AU-T032,Syed Muneeb Abbas Hamdani,syed.muneeb.abbas.hamdani@au.edu.pk,CE,assistant_professor,18,6
+AU-T033,Tauseef Ur Rehman,tauseef.ur.rehman@au.edu.pk,EE,assistant_professor,18,6
+AU-T034,Usman Hameed,usman.hameed@au.edu.pk,CE,assistant_professor,18,6
+AU-T035,Zarkaish,zarkaish@au.edu.pk,CE,assistant_professor,18,6
+AU-T036,Zo Afshan,zo.afshan@au.edu.pk,CE,assistant_professor,18,6

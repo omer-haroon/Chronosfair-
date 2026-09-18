@@ -1,0 +1,68 @@
+course_code,section_code,primary_teacher,lab_teacher,requires_lab
+CE-7DSD,BCE-F-23-A,Usman Hameed,Usman Hameed,True
+CE-7ML,BCE-F-23-A,Ayesha Sadiq,,False
+CE-7FYP,BCE-F-23-A,Dr. Ayesha Salman,,False
+CE-7CIR,BCE-F-23-A,Awais Ali,,False
+CE-7CAD,BCE-F-23-A,Maryam Sheikh,Maryam Sheikh,True
+CE-7MLL,BCE-F-23-A,Ayesha Sadiq,Ayesha Sadiq,True
+CE-7ML,BCE-F-23-B,Maryam Sabir,,False
+CE-7DSD,BCE-F-23-B,Usman Hameed,Usman Hameed,True
+CE-7CIR,BCE-F-23-B,Awais Ali,,False
+CE-7CAD,BCE-F-23-B,Maryam Sheikh,Maryam Sheikh,True
+CE-7FYP,BCE-F-23-B,Dr. Ayesha Salman,,False
+CE-7MLL,BCE-F-23-B,Maryam Sabir,Maryam Sabir,True
+CE-5PMI,BCE-F-24-A,Dr. Jehanzeb Khan,,False
+CE-5OSL,BCE-F-24-A,Javeria Razzaq,Javeria Razzaq,True
+CE-5CCA,BCE-F-24-A,Basharat,Basharat,True
+CE-5SSL,BCE-F-24-A,Maryam Sheikh,Maryam Sheikh,True
+CE-5SE,BCE-F-24-A,Muhammad Naveed Khurshed,,False
+CE-5SS,BCE-F-24-A,Dr. Ayesha Salman,,False
+CE-5OS,BCE-F-24-A,Dr. Hadi Abdullah,,False
+CE-5SS,BCE-F-24-B,Dr. Ayesha Salman,,False
+CE-5SE,BCE-F-24-B,Muhammad Atif Bajwa,,False
+CE-5CCA,BCE-F-24-B,Aneeq Ahmad,Aneeq Ahmad,True
+CE-5PMI,BCE-F-24-B,Dr. Jehanzeb Khan,,False
+CE-5OS,BCE-F-24-B,Dr. Hadi Abdullah,,False
+CE-5OSL,BCE-F-24-B,Javeria Razzaq,Javeria Razzaq,True
+CE-5SSL,BCE-F-24-B,Maryam Sheikh,Maryam Sheikh,True
+CE-3DLD,BCE-F-25-A,Anwar Saeed,Anwar Saeed,True
+CE-3LAA,BCE-F-25-A,Nida Tanveer,,False
+CE-3ISA,BCE-F-25-A,Hussain Mujtaba,,False
+CE-3EDA,BCE-F-25-A,Dr. Muhammad Zaheer,Laraib,True
+CE-3DSA,BCE-F-25-A,Zo Afshan,Zo Afshan,True
+CE-3LAA,BCE-F-25-B,Nida Tanveer,,False
+CE-3DSA,BCE-F-25-B,Ayesha Sadiq,Ayesha Sadiq,True
+CE-3ISA,BCE-F-25-B,Hussain Mujtaba,,False
+CE-3DLD,BCE-F-25-B,Zo Afshan,Zo Afshan,True
+CE-3EDA,BCE-F-25-B,Tauseef Ur Rehman,Tauseef Ur Rehman,True
+CE-1CPL,BCE-F26-A,Zarkaish,Zarkaish,True
+CE-1APL,BCE-F26-A,Aqib Rauf,Aqib Rauf,True
+CE-1F,BCE-F26-A,Dr. Aftab Ahmad Rai,,False
+CE-1CAG,BCE-F26-A,Dr. Mahwish Bano,,False
+CE-1IAC,BCE-F26-A,Basharat,Basharat,True
+CE-1CP,BCE-F26-A,Dr. Mumajjed Ul Mudassir,,False
+CE-1FE,BCE-F26-A,Khansa Riaz,,False
+CE-1CEW,BCE-F26-A,CE-VFM,CE-VFM,True
+CE-1AP,BCE-F26-A,Syed Muneeb Abbas Hamdani,,False
+CE-1APL,BCE-F-26-B,Aqib Rauf,Aqib Rauf,True
+CE-1CP,BCE-F-26-B,Maryam Sabir,,False
+CE-1CAG,BCE-F-26-B,Nida Tanveer,,False
+CE-1AP,BCE-F-26-B,Syed Muneeb Abbas Hamdani,,False
+CE-1IAC,BCE-F-26-B,Aneeq Ahmad,Aneeq Ahmad,True
+CE-1FE,BCE-F-26-B,Khansa Riaz,,False
+CE-1F,BCE-F-26-B,Dr. Aftab Ahmad Rai,,False
+CE-1CEW,BCE-F-26-B,CE-VFM4,CE-VFM4,True
+CE-1CPL,BCE-F-26-B,Maryam Sabir,Maryam Sabir,True
+SE-1IAC,BSE-F-26-A,Alina Maryum,Alina Maryum,True
+SE-1APL,BSE-F-26-A,Sher Bano,Sher Bano,True
+SE-1AP,BSE-F-26-A,Sher Bano,,False
+SE-1CPL,BSE-F-26-A,Sidrish Ehsan,Sidrish Ehsan,True
+SE-1CP,BSE-F-26-A,Dr. Mumajjed Ul Mudassir,,False
+SE-1CAG,BSE-F-26-A,Dr. Shanza Behram,,False
+SE-1PS,BSE-F-26-A,Raham Maula,,False
+SE-1FE,BSE-F-26-A,Amina Khan,,False
+SE-3DLD,BSE-F-25-A,Alina Maryum,Alina Maryum,True
+SE-3DMS,BSE-F-25-A,Muhammad Naveed Khurshed,Muhammad Naveed Khurshed,True
+SE-3DSA,BSE-F-25-A,Sidrish Ehsan,Sidrish Ehsan,True
+SE-3SE,BSE-F-25-A,Muhammad Atif Bajwa,,False
+SE-3PMI,BSE-F-25-A,Dr. Muhammad Zaheer,,False
